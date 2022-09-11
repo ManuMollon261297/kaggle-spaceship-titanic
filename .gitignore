@@ -132,6 +132,7 @@ dmypy.json
 spaceship-titanic.zip
 spaceship-titanic/
 *.csv
+*.zip
 
 # DS Store
 .DS_Store
