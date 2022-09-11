@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Dataset Folders
+spaceship-titanic.zip
+spaceship-titanic/
+*.csv
+
+# DS Store
+.DS_Store
+
